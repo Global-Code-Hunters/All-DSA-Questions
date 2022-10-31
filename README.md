@@ -1,3 +1,9 @@
+WelCome to the community,
+This community is created by some college graduate to help people to learn code and various approaches that heap them to crack Online Assessment Round
+as well as help them in cracking the interviews!!
+
+Happy coding ;-)
+
 # Table of Content
 
 ## Two Pointer
