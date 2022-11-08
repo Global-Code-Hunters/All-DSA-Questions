@@ -1,5 +1,7 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Global-Code-Hunters.All-DSA-Questions)
+
 WelCome to the community,
-This community is created by some college graduate to help people to learn code and various approaches that heap them to crack Online Assessment Round
+This community is created by some college graduate to help people to learn code and various approaches that help them to crack Online Assessment Round
 as well as help them in cracking the interviews!!
 
 Happy coding ;-)
