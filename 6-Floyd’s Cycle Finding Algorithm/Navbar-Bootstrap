@@ -1,0 +1,24 @@
+<div class="container-fluid">
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-header">
+            <a href="#" class="navbar-brand">Phenomenal India</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Destination</a></li>
+            <li><a href="#">Packages</a></li>
+            <li><a href="#">Things to Do</a></li>
+            <li><a href="#">Best of luck</a></li>
+        </ul>
+        <form action="#" class="navbar-form navbar-left">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="search here">
+                <button type="submit" class="btn btn-success">Submit</button>
+            </div>
+        </form>
+        <ul 
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Sign Up</a></li>
+        </ul>
+      </nav>
+    </div>class="nav navbar-nav navbar-right">
